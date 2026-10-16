@@ -1,0 +1,9 @@
+/* TEAM */
+Company: Henrycavendish
+Website: https://henrycavendish.com/
+Location: Clearwater, FL
+
+//* SITE */
+Published: 2026-10-16
+Language: English
+Doctype: HTML5
